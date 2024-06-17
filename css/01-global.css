@@ -672,8 +672,6 @@ img {
   width: 180px !important;
 }
 
-
-
 .containerImage img {
   border-radius: 20px;
 }
@@ -713,13 +711,13 @@ img {
     grid-template-columns: repeat(2, 1fr);
     justify-content: center !important;
     gap: 10px;
-    margin-left: 25px;
+    margin-left: 10px;
   }
   .flexCard2 {
     grid-template-columns: repeat(2, 1fr);
     justify-content: center !important;
     gap: 10px;
-    margin-left: 25px;
+    margin-left: 10px;
   }
 }
 
