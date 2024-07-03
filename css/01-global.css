@@ -834,3 +834,23 @@ max-width: 400px;
 margin:0 auto;
 
 }
+
+.footerD{
+  background:rgba(0, 0, 0, 0.4);
+  border-top: 1px solid #f1f1f1;
+  width: 100vw;
+  padding: 2rem;
+  display: flex;
+  justify-content:space-between;
+}
+.footerImg img{
+  max-width:250px ;
+}
+
+.footerText{
+  text-align: center;
+}
+
+.footerText p a{
+  padding:10px
+}
